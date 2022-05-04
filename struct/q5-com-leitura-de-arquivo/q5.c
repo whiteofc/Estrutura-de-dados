@@ -45,6 +45,7 @@ void busca_nome(alunos aluno1[6]){
 
 
 void busca_matricula(alunos aluno1[6]){
+
     setbuf(stdin, NULL);
 
     int matricula;

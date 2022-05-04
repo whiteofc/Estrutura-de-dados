@@ -1,0 +1,4 @@
+Faça uma função recursiva que encontre um determinado número no array e retorne o índice de onde ele foi encontrado. A função deve ter a seguinte assinatura:
+
+
+int procurar(int *a, int tam, int indice)

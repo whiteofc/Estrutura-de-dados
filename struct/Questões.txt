@@ -1,0 +1,7 @@
+Defina uma estrutura para representar alunos. A estrutura deve conter o número de matrícula, nome, idade e as 4 notas bimestrais do aluno.
+
+1. Crie uma função para imprimir todas as informações de um dado aluno;
+2. Crie um array para armazenar cinco alunos, usando a estrutura que você criou,e imprima a informação de todos eles (não modifique a função imprimir aluno);
+3. Modifique sua função de imprimir para que ela receba como parâmetro um ponteiro para struct;
+4. Crie uma função que recebe o número de matrícula do aluno e retorne a posição dele no array de alunos. Imprima as informações desse aluno na tela;
+5. Crie uma função que recebe o nome do aluno e retorne a posição dele no array de alunos. Imprima as informações desse aluno na tela.

@@ -1,0 +1,14 @@
+1) Leia um array com dez números inteiros aleatórios e substitua todos os valores pares por 1 e ímpares por -1 (use rand() e srand()).
+
+2) Leia 10 valores inteiros aleatórios em um array a. Em seguida, lei amais um número x. Então, imprima a quantidade de vezes que x apareceu em a.
+
+3) Leia dois vetores A e B, cada um com a mesma quantidadedeelementos.Calcule e mostre os vetores resultantes em cada caso abaixo:
+
+a) Diferença entre A e B: todos os elementos de A que não existe mem B.
+b) Interseção entre A e B: apenas os elementos que aparecem nos dois vetores.
+c) União entre A e B: todos os elementos de A, e todos os elementos de Bque não estão em A
+
+
+
+
+
